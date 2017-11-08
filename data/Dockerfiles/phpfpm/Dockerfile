@@ -18,6 +18,7 @@ RUN apk add -U --no-cache libxml2-dev \
 	bash \
 	autoconf \
 	g++ \
+	gnupg \
 	make \
 	openssl \
 	openssl-dev \
